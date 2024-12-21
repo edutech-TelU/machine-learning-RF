@@ -1,0 +1,7 @@
+flask
+firebase-admin
+google-cloud-firestore
+joblib
+librosa
+numpy
+requests
